@@ -13,8 +13,12 @@ let
 		wget
 		btop
 		helix
+		git
+		gnumake
+		gcc
 	];
 	syslib = with pkgs; [
+		python3
 		libva-utils
 		cudatoolkit
 	];
