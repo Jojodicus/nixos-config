@@ -1,6 +1,7 @@
 _: {
   imports = [
     ./nix.nix
+    ./nvidia.nix
   ];
 
   # Install Gnome
