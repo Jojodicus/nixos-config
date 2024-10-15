@@ -4,6 +4,7 @@ _: {
     ./nix.nix
     ./nvidia.nix
     ./packages.nix
+    ./binbash.nix
   ];
 
   # Copy-Paste from NixOS setup
